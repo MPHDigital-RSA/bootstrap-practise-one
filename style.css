@@ -1,0 +1,21 @@
+:root{
+    /* Primary */
+
+    --Dark-Blue-email-sign-up: hsl(217, 28%, 15%);
+    --Dark-Blue-main-bg: hsl(218, 28%, 13%);
+    --Dark-Blue-footer-bg: hsl(216, 53%, 9%);
+    --Dark-Blue-testimonials-bg: hsl(219, 30%, 18%);
+
+    /* Accent */
+
+    --Cyan: hsl(176, 68%, 64%);
+    --Blue: hsl(198, 60%, 50%);
+    --Light-Red: hsl(0, 100%, 63%);
+}
+
+header,
+.hero,
+.cards{
+    background-color: var(--Dark-Blue-email-sign-up);
+}
+
